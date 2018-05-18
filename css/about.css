@@ -1,0 +1,21 @@
+.about {
+    margin: 25px 0;
+}
+
+.about section {
+    width: 50%;
+}
+.about img {
+    width: 50%;
+}
+
+.about section iframe {
+    width: 560;
+    height: 315;
+    margin-top: 175px;
+}
+
+.about ul li {
+    margin-top: 5px;
+    margin-left: 15px;
+}
